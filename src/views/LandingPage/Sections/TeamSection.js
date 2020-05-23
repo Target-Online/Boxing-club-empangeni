@@ -98,7 +98,7 @@ export default function TeamSection() {
                   Phone number: 079 493 6521/ 061 528 2469
                 </h4>
                 <h4 className={classes.cardTitle}>
-                  Email address: skeleton2264@gmail.com
+                  Email address: skeletton2264@gmail.com
                 </h4>
               </CardBody>
             </Card>
